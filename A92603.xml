@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance and resolution of the Kingdom of Scotland. Shewing the lawfulnesse of the second coming into England to take up arms against all those that shall oppose the Parliament. Published with the advise of the Councell of Scotland.</title>
+            <title>Lawfulnesse of our expedition into England manifested.</title>
+            <author>Scotland. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92603</idno>
+            <idno type="STC">Wing S1330</idno>
+            <idno type="STC">Thomason E111_10</idno>
+            <idno type="STC">ESTC R5351</idno>
+            <idno type="EEBO-CITATION">99872840</idno>
+            <idno type="PROQUEST">99872840</idno>
+            <idno type="VID">125286</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92603)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125286)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E111[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance and resolution of the Kingdom of Scotland. Shewing the lawfulnesse of the second coming into England to take up arms against all those that shall oppose the Parliament. Published with the advise of the Councell of Scotland.</title>
+                  <title>Lawfulnesse of our expedition into England manifested.</title>
+                  <author>Scotland. Army.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed first in Scotland by Robert Bryson, and now reprinted at London for G. T.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally published as: The lawfulnesse of our expedition into England manifested.</note>
+                  <note>Annotation on Thomason copy: "Aug. 13:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125286:1" rendition="simple:additions"/>
+            <p>A REMONSTRANCE AND RESOLVTION OF THE KINGDOM OF SCOTLAND.</p>
+            <p>Shewing the Lawfulneſſe of the ſecond coming into <hi>England</hi> to take up Arms againſt all thoſe that ſhall oppoſe the <hi>PARLIAMENT.</hi>
+            </p>
+            <p>Publiſhed with the adviſe of the Coun<g ref="char:EOLhyphen"/>cell of SCOTLAND.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed firſt in <hi>Scotland</hi> by <hi>Robert Bryſon,</hi> and now Re-Printed at LONDON for <hi>G. T.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="title_page">
+            <pb facs="tcp:125286:2"/>
+            <pb n="1" facs="tcp:125286:2"/>
+            <head>THE LAVVFVLNESSE OF our expedition into <hi>England</hi> Manifeſted.</head>
+            <p>AS from the begining till this time, we have at<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>empted nothing preſumptuouſly in this great worke of Reforma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, but have <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roceeded upon good grounds, and have been l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d forward by the good hand of God, ſo now, from our own perſwaſions are we ready to anſwer every one that asketh us a Reaſon of this our preſent Expedition, which is one of the greateſt and moſt notable parts of this wonderfull worke of God beſeeching all to lift up their m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds above their own particulars<g ref="char:punc">▪</g> and wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hout prejudice or partiality to lay to heart the conſiderations following.</p>
+            <p n="1">I. As all men know and confeſſe, what is the great force of neceſ<g ref="char:EOLhyphen"/>ſitie and how it doth juſtifie actions otherwaies unwarrantable: So can it not be denied, but we muſt either ſeeke our peace in <hi>England</hi> at this time, or lye unde three heavie burthens which we are not able to beare. Fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt, we muſt maintain Armies on the Borders, and all pl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces neareſt to hazard, for the defence and preſervation of our Countrey, which by our laying downe of Armes, and disbanding of our Forces ſhould be quickly over-run by hoſtile Invaſion, and the incurſions of our enemies. Second<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, we ſhall want all Trade by Sea, which would not only deprive the Kingdome of many neceſſaries, but utterly undoe our Burroughes, Merchants, Mariners , and many others who live by Fiſhing, and by commodities exported, and imported, and whoſe par<g ref="char:EOLhyphen"/>ticul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r callings are utterly made void, by want of commerce with other Nations and Sea-trade. Thirdly, the Subjects through the whole Kingdome ſhall want adminiſtration of juſtice; and although this time paſt, the m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvellous power and providence of God hath kept the King<g ref="char:EOLhyphen"/>dome in order and quietneſſe, without ordinary Judicatories ſitting, yet cannot this be expected for afterward, but all ſhall turne to confu<g ref="char:EOLhyphen"/>ſion.
+<pb n="2" facs="tcp:125286:3"/>Any one of the three, much more all of them put together, threa<g ref="char:EOLhyphen"/>ten us with moſt certain ruine, unleſſe we ſpeedily uſe the ten edy of this Expedition. And this we ſay not from feare, but from feeling; for we have already felt to our unſpeakable prejudice, what it is to main<g ref="char:EOLhyphen"/>taine Armies, what to want tr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffique, what to want adminiſtration of Juſtice. And if the begining of thoſe evils be ſo heavie, what ſhall the the growth and long continuance of them prove unto us; ſo miſerable a being all men would judge to be worſe than no being.</p>
+            <p n="2">II. If we conſider the nature and quality of this Expedition, it is defenſive, and ſo the more juſtifi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able. For proofe hereof, let it be re<g ref="char:EOLhyphen"/>membred: 1. The Kings Majeſtie miſled by the crafty and cruell Fa<g ref="char:EOLhyphen"/>ction of our Adverſaries, began this years Warre, not we. When Arti<g ref="char:EOLhyphen"/>cles of pacification had been the other yeare agreed up<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, Armes layed downe, Forces and Caſtles rendred, an Aſſembly kept and concluded, with the preſence and conſent of His Majeſties High Commiſſioner, the promiſed ratif<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cation thereof in Parliament (contrary to the foreſayd Articles) was denyed into us. And when we would have informed His Majeſtie by our Commiſſioners, of the Reaſons and manner of our proceedings, they got not ſo much as preſence or Audience. Thererafter His Majeſtie being content to heare them; before that they came to Court, or were heard, Warre was concluded againſt us at the Coun<g ref="char:EOLhyphen"/>cell-Table of <hi>England,</hi> and a Commiſſion given to the Earle of <hi>Nor<g ref="char:EOLhyphen"/>thumberland</hi> for that effect: The Parliament of <hi>Ireland</hi> and <hi>England</hi> were alſo convocat for granting of Subſidies unto this Warre againſt us, as it n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ur<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: plots have beene hatched and military preparations made againſt us; many invaſions by Sea, which have ſpoiled us of our Ships and Goods; Men, Women, and Children kill'd in <hi>Edinburgh</hi> by His Majeſties Forces in the Caſtle: Our enemies therefore the authors and beginners of the Warre, and we defenders only. 2. We intend not the hurt of others, but our owne pe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce and preſervation, neither are we to offer any injury or violence: And therefore have furniſhed our ſelves according to our power with all neceſſaries, not to fight at all, except we be forced to it in our owne defence, as our Declaration bear<g ref="char:EOLhyphen"/>eth. 3. We ſhall retire and lay downe our Armes, as ſoone as we ſhall get a ſure peace and ſhall be ſatisfied in our juſt demands. Upon which ground, even ſome of thoſe who would ſeem the greateſt Royaliſts, hold the Warres of the Proteſtants in <hi>France,</hi> againſt the King and the Fa<g ref="char:EOLhyphen"/>ction of the <hi>Guiſians</hi> to have beene lawfull defenſive Warres, becauſe
+<pb n="3" facs="tcp:125286:3"/>they were ever ready to disband and quiet themſelves when they got aſ<g ref="char:EOLhyphen"/>ſurance of peace, and liberty of Religion. Now this preſent Expedi<g ref="char:EOLhyphen"/>tion being in the nature of it defenſive; hence it appeareth, that it is not contrary, but conſonant to our former Proteſtations, Informations, and Remonſtrances: In all which, there is not one word againſt de<g ref="char:EOLhyphen"/>fenſive Warre in this cauſe; but ſtrong reaſons for it<g ref="char:punc">▪</g> all which militat for this Expedition. Our firſt Information ſent to <hi>England</hi> this yeare, though it accurſeth all offenſive or invaſive Warre; yet ſheweth plain<g ref="char:EOLhyphen"/>ly, that if we be either invaded by Sea or Land, we muſt do as a man th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t fighteth himſelfe out of priſon. If a private man when his houſe is blocked up, ſo that he can have no liberty of commerce and traffique to ſupply himſelfe and his Family, being alſo in a cotinuall hazard of his life, not knowing when he ſhall be aſſaulted by his enemies, who lye in waite againſt him; may in this caſe moſt lawfully ſtep forth with the Forces which he can m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke, and fight himſelfe free. Of how much more worth is the whole Nation<g ref="char:punc">▪</g> and how ſhall one and the ſame way of Defence and liberation be allowed to a private man, and diſal<g ref="char:EOLhyphen"/>lowed to a Nation?</p>
+            <p n="3">III. Thirdly, we are called to this Expedition by that ſame Di<g ref="char:EOLhyphen"/>vine Providence and Vocation, which hath guided us hitherto in this great b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſineſſe. We ſee the expedience of it, for the glory of God, for the good of the Church<g ref="char:punc">▪</g> for advancing the Goſpel, for our own peace, after ſeeking of God, and beging light and direction from Heaven, our hearts are inclined to it; God hath given us zeale and courage to pro<g ref="char:EOLhyphen"/>ſecute it, ability and opportunity for under-taking it, Inſtruments ſit<g ref="char:EOLhyphen"/>ted for it, unanimous reſolution upon it, ſcruples removed out of minds where they were harboured, encouragements to atchieve it from many paſſages of Divine Providence; and namely from the proceedings of the laſt Parliament of <hi>England,</hi> their grievances and deſires being ſo homogenecall and a kinne to ours, we have laboured in great long-ſuf<g ref="char:EOLhyphen"/>fering by Supplications, Informations, Commiſſions, and all other meanes poſſible to avoyd this Expedi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion: It was not premediate nor affected by us (God knowes) but our enemies have neceſſitate and re<g ref="char:EOLhyphen"/>dacted us unto it and that of purpoſe to ſow the ſeed of Nationall quar<g ref="char:EOLhyphen"/>rel, yet as God hitherto hath turned all their plots againſt themſelves, and to effects quite contrary to thoſe that they intended; ſo are we hopefull, that our going into <hi>England,</hi> ſo mucwiſhed and deſired by
+<pb n="4" facs="tcp:125286:4"/>our Adverſaries, for producing a Nationall quarrell, ſhall ſo farre diſappoint them of their aymes, that it ſhall linke the two Nations together, in ſtraiter and ſtronger bonds both of civill and chriſtian love, than never before.</p>
+            <p>And that we may ſee yet further evidences of a calling from God to this voyage, we may obſerve the order of the Lords ſteps and proceed<g ref="char:EOLhyphen"/>ings in this worke of Reformation. For, beginning at the groſſe Popery of the Service Booke and Booke of Canons, he hath followed the back trade of our defection, till he hath reformed the very fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt and ſmalleſt Novations<g ref="char:punc">▪</g> which entred in their Church. But ſo it is that this backe trade leadeth yet farther to the Prelacie in <hi>England,</hi> the fountaine whence all thoſe Babyl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niſh ſtreams iſſu'd unto us: The Lord there<g ref="char:EOLhyphen"/>fore is ſtill on the backe trade, and we following him therein, cannot yet be at a ſtay. Yea, we truſt that he ſhall ſo follow forth this trade, as to chaſe home the Beaſt, and the falſe Prophet to <hi>Rome,</hi> and from <hi>Rome</hi> out of the World. Beſides, this third conſideration reſulteth from the former two; for if this Expedition be neceſſary, and if it be defenſive, then it followeth inevitably, that we are called unto it, for our neceſſary defence is warranted, yea commanded by the Law of God and Nature, and we are obliged to it in our Covenant.</p>
+            <p n="4">IV. Fourthly, the lawfulneſſe of this Expedition appeareth, if we conſider the party againſt whom; which is not the Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> but the <hi>Canterburian</hi> faction of Papiſts, Atheiſts, Arminians, Prelates the miſleaders of the Kings Majeſtie and the common enemies o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both Kingdomes. We perſwade our ſelves, that our Brethren and neighbours in <hi>England,</hi> will never be ſo evill adviſed, as to make them<g ref="char:EOLhyphen"/>ſelves a party againſt us, by the defence and patrociny of our enemies among them as ſometime the <hi>Benjamites</hi> made themſelves a party a<g ref="char:EOLhyphen"/>gainſt the <hi>Iſraelites</hi> by def<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nding the <hi>Gibeathites</hi> in their wicked cauſe, <hi>Iudges</hi> 20. We pray God to give them the wiſedome of the wiſe wo<g ref="char:EOLhyphen"/>man in <hi>Abel,</hi> who when <hi>Ioab</hi> ca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e neare to her Citie with an Armie, found out a way which both kept <hi>Ioab</hi> from being an enemy to the Ci<g ref="char:EOLhyphen"/>tie<g ref="char:punc">▪</g> and the Ci<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie from being an enemy to him, 2 <hi>Sam.</hi> 21. As touch<g ref="char:EOLhyphen"/>ing the proviſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and furnit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re of o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Army in <hi>England<g ref="char:punc">▪</g>
+               </hi> it ſhall be ſuch as i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> uſed a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng frie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds, n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t among enemies. The rule of humanity and grati<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l teach them to furniſh us with neceſſaries, when as beſide the procu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of our owne peace, we doe good offices to them,
+<pb n="5" facs="tcp:125286:4"/>They deteſt (we know) the churliſhneſſe of <hi>Nabal,</hi> who refuſed vi<g ref="char:EOLhyphen"/>ctuals to <hi>David</hi> and his men, who had done them good and no evill, 1 <hi>Sam.</hi> 20. And the inhumanity of the men of <hi>Succoth</hi> and <hi>Penuel,</hi> who denyed bread to <hi>Gideons</hi> Army, when he was purſuing the com<g ref="char:EOLhyphen"/>mon enemies of all <hi>Iſrael, Iudg.</hi> 8. But let the <hi>Engliſh</hi> do of their be<g ref="char:EOLhyphen"/>nevolence what humanity and diſcretion will teach them; for our own part, out Declaration ſheweth, that we ſeeke not victuals for nought but for money, or ſecurity: And if this ſhould be refuſed (which we ſhall never expect) it were as damnable as the barbarous cruelty of <hi>Edom</hi> and <hi>Moab,</hi> who refuſed to let <hi>Iſrael</hi> paſſe through their Countrey, or to give them bread or water in any caſe, <hi>Numb.</hi> 20. <hi>Iudg.</hi> 11. and this offence the Lord accounted ſo inexpiable, that for it he accurſed the <hi>Edomites</hi> and <hi>Moabites,</hi> from entring into the Congregation of the Lord, unto the tenth generation, <hi>Deut.</hi> 23.3, 4.</p>
+            <p n="5">V. The fift conſideration concerneth the end for which this voyage is under-taken. We have atteſted the <hi>ſearcher of hearts;</hi> it is not to execute any diſloyall act againſt the Kings Majeſtie<g ref="char:punc">▪</g> it is not to put forth a cruell or vindictive hand againſt our Adverſaries in <hi>England,</hi> whom we deſire only to be judged and cenſured by their own Honourable and high Court of Parliament: it is not to enrich our ſelves with the wealth of <hi>England,</hi> nor to doe any harme thereto. But by the contrary we ſhall gladly beſtow our pains and our means to do them all the good we can, which they might juſtly looke for at our hands, for the helpe which they made us at our Reformation, in freeing us from the <hi>French,</hi> a bond of peace and love betwixt them and us to all Generations. Our Conſcience, and God who is greater than our Conſcience beareth us record, that we ayme altogether at the glory of God, peace of both Nations, and honour of the King, in ſuppreſſing and puniſhing in a le<g ref="char:EOLhyphen"/>gall way of thoſe who are the troublers or <hi>Iſrael,</hi> the fire-brands of hell, the <hi>Korahs,</hi> and <hi>Balaams,</hi> the <hi>Doegs,</hi> the <hi>Rabſhakahs,</hi> the <hi>Hamans,</hi> the <hi>Tobiahs,</hi> and <hi>Sandballats</hi> of our time, which done, we are ſatisfied. Neither have we begun a Military expedition to <hi>England,</hi> as a mean for compaſſing thoſe our pious ends; till all other meanes which we could thinke upon have failed us, and this alone is left to us as <hi>ultimum &amp; unicum remedium,</hi> the laſt and onely remedy.</p>
+            <p n="6">VI. Sixtly, if the Lord ſhall bleſſe us in our Expedition, and our intentions ſhall not be croſſed by our owne ſins, and miſcariage, or by
+<pb n="6" facs="tcp:125286:5"/>the oppoſition of the <hi>Engliſh,</hi> the fruit ſhall be ſweet, and the effects comfortable to both Nations, to the Poſterity, and to the reformed Kirks abroad: <hi>Scotland</hi> ſhall be reformed as at the begining, the Re<g ref="char:EOLhyphen"/>formation of <hi>England</hi> long prayed and pleaded for by the Godly there; ſhall be according to their wiſhes and deſires, perfected in doctrine, worſhip<g ref="char:punc">▪</g> and Diſcipline; Papiſts, Prelates, and all the members of the Antichriſtian Hierarchy, with their Idolatry<g ref="char:punc">▪</g> Superſtition<g ref="char:punc">▪</g> and humane inventions ſall packe them hence; the names of Sects, and Separa<g ref="char:EOLhyphen"/>tiſts ſhall no more be mentioned, and the Lord ſhall be one<g ref="char:punc">▪</g> and his Name one throughout the whole Iſland, which ſhall be glory to God, honour to the King, joy to the Kingdomes, comfort to the Poſterity, example to other Chriſtian Kirks, and confuſion to the incorrigible enemies.</p>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
